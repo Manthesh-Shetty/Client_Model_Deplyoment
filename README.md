@@ -25,5 +25,5 @@ Now define the user input parameters accordingly with the streamlit app commands
 user gives input depending on the predict probability the user will get to know his eligibility for insurance policy.
 Now dowload this in exectable format and paste in the directory.
 
-Anaconda prompt : Run the file(streamlit ru file.py)
+Anaconda prompt : Run the file(streamlit run file.py)
 Initally it asks your mail id later after entering mail id it will redirect to streamlit app where user can enter the input and check his eligibility for insurance policy.
